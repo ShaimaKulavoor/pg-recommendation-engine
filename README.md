@@ -14,4 +14,4 @@ This project recommends PG accommodations based on user preferences such as city
 
 ## Future Scope
 - ML-based recommendation system
-- Web app interface
+- Web app interface.
